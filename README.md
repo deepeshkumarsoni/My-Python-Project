@@ -1,2 +1,2 @@
 # My-Python-Project
-Simple ATM machine working roject in Python Language
+Simple ATM machine working Project in Python Language
